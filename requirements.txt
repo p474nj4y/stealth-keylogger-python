@@ -1,2 +1,1 @@
-pynput
-logger
+pynput==1.7.6
